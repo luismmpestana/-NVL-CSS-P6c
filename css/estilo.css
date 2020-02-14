@@ -1,0 +1,56 @@
+body {
+	margin: 50px;
+	padding: 0px;
+	border: 0px;
+	width: 900px;
+}
+
+img {
+	height: 550px;
+	width: 850px;
+}
+
+.cantidad {
+	font-weight: bold;
+}
+
+
+[class*="lista"] {
+	border: 2px dashed #70081E;
+	width: 320px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+.titulo {
+	border-bottom: 2px solid #70081E;
+}
+
+.facil {
+	color: green;
+}
+
+.final {
+	border: 2px solid #70081E;
+	width: 570px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+
+.titulo-final {
+	font-size: bold;
+}
+
+
+
+[class$="cion"] {
+	background-color: #D8E0B0;
+}
+
+#comer {
+	text-decoration: underline;
+	font-size: bold;
+	text-align: center;
+	font-size: 45px;
+}
